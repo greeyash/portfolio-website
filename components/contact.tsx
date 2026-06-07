@@ -4,7 +4,7 @@ import { SectionHeading, SectionLabel } from '@/components/section-heading'
 
 const channels = [
   { icon: Mail, label: 'Email', value: 'ekanabila224@gmail.com', href: 'mailto:ekanabila224@gmail.com' },
-  { icon: Phone, label: 'Phone', value: '+6285725767292', href: 'wa.me/6285725767292' },
+  { icon: Phone, label: 'Phone', value: '+6285725767292', href: 'https://wa.me/6285725767292' },
   { icon: LinkedinIcon, label: 'LinkedIn', value: 'nabilla-eka', href: 'https://www.linkedin.com/in/nabilla-eka' },
   { icon: GithubIcon, label: 'GitHub', value: 'greeyash', href: 'https://github.com/greeyash' },
 ]

@@ -5,7 +5,7 @@ import { HeroCanvas } from '@/components/hero-canvas'
 
 const contacts = [
   { icon: Mail, label: 'ekanabila224@gmail.com', href: 'mailto:ekanabila224@gmail.com' },
-  { icon: Phone, label: '+6285725767292', href: 'wa.me/6285725767292' },
+  { icon: Phone, label: '+6285725767292', href: 'https://wa.me/6285725767292' },
   { icon: LinkedinIcon, label: 'nabilla-eka', href: 'https://www.linkedin.com/in/nabilla-eka' },
   { icon: GithubIcon, label: 'greeyash', href: 'https://github.com/greeyash' },
 ]
