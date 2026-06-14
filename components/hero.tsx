@@ -30,7 +30,7 @@ export function Hero() {
         <div className="animate-fade-in-up mt-7 flex items-center gap-3 [animation-delay:160ms]">
           <span className="h-px w-8 bg-foreground/30" aria-hidden="true" />
           <p className="font-medium text-muted-foreground">
-            {/* Information Systems &amp; Technology · ITB */}
+            Information Systems &amp; Technology · ITB
           </p>
         </div>
 
