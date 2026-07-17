@@ -13,7 +13,6 @@ export default function Page() {
         <Hero />
         <Resume />
         <Experience />
-        <Projects />
         <Contact />
       </main>
     </>
